@@ -14,8 +14,6 @@ Creates a menu icon for any web-page using html and css and very simple java scr
 - Menu line-3 moves the line down 40 pixels
 - Openmenu line-1, Openmenu line -3, and Openmenu line -2 makes the rotation animations. We made this possible by adding java script in the html ("script")
 
-- Create a `Set` from `b`, then use `Array.prototype.filter()` on `a` to only keep values contained in `b`.
-
 ```HTML
 <!DOCTYPE html>
 <hmtl>
